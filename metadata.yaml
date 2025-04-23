@@ -1,5 +1,5 @@
 homepage: "https://oops.com"
 documentation: "https://oops.com/template-docs"
 versions:
-  - sha: "<commit-sha>"
+  - sha: "9cca3a5955990a2268a302b7d3b8682a5aad06ba"
     changeNotes: "Initial release."
